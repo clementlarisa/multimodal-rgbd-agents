@@ -1,6 +1,6 @@
 # Multimodal RGBD agents (Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents)  
 
-> **Note**: This repository contains selected code related to our submitted paper **"Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"**, currently under review for **IROS 2025**.  
+> **Note**: This repository contains selected code related to our submitted paper **"Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"**, currently under review.  
 
 ## Description  
 This repository includes **code for model definition and training**, but does **not** include:  
@@ -12,7 +12,7 @@ If you are interested in obtaining access to the datasets or data-loading script
 ## Paper  
 - **Title**: "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"  
 - **Authors**: Mihaela-Larisa Clement*, Monika Farsang*, Felix Resch, Radu Grosu
-- **Conference**: Under review at IROS, 2025
+- **Conference**: Under review
 
 ## Repository Contents  
 - `model_builder.py` – Model architectures for RGB, early and late fusion
