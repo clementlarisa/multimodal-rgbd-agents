@@ -49,3 +49,16 @@ This code is released under ****[Creative Commons Attribution-NonCommercial-NoDe
 Copyright (c) 2025, Mihaela-Larisa Clement.
 This code is provided for academic reference. For any other use, please contact the authors.
 ```
+
+## Citation
+```bibtex
+@misc{clement2025depthmattersmultimodalrgbd,
+      title={Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents}, 
+      author={Mihaela-Larisa Clement and Mónika Farsang and Felix Resch and Radu Grosu},
+      year={2025},
+      eprint={2503.16711},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2503.16711}, 
+}
+```
